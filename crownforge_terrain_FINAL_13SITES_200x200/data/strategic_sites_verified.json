@@ -1,0 +1,119 @@
+[
+  {
+    "id": "R",
+    "class": "royal",
+    "tileX": 103,
+    "tileY": 98,
+    "pixelX": 4532,
+    "pixelY": 4312,
+    "receivingDiameter": 1150
+  },
+  {
+    "id": "L1",
+    "class": "mighty",
+    "tileX": 44,
+    "tileY": 91,
+    "pixelX": 1936,
+    "pixelY": 4004,
+    "receivingDiameter": 840
+  },
+  {
+    "id": "L2",
+    "class": "mighty",
+    "tileX": 111,
+    "tileY": 47,
+    "pixelX": 4884,
+    "pixelY": 2068,
+    "receivingDiameter": 840
+  },
+  {
+    "id": "L3",
+    "class": "mighty",
+    "tileX": 72,
+    "tileY": 151,
+    "pixelX": 3168,
+    "pixelY": 6644,
+    "receivingDiameter": 840
+  },
+  {
+    "id": "L4",
+    "class": "mighty",
+    "tileX": 158,
+    "tileY": 104,
+    "pixelX": 6952,
+    "pixelY": 4576,
+    "receivingDiameter": 840
+  },
+  {
+    "id": "M1",
+    "class": "medium",
+    "tileX": 27,
+    "tileY": 58,
+    "pixelX": 1188,
+    "pixelY": 2552,
+    "receivingDiameter": 640
+  },
+  {
+    "id": "M2",
+    "class": "medium",
+    "tileX": 142,
+    "tileY": 45,
+    "pixelX": 6248,
+    "pixelY": 1980,
+    "receivingDiameter": 640
+  },
+  {
+    "id": "M3",
+    "class": "medium",
+    "tileX": 31,
+    "tileY": 157,
+    "pixelX": 1364,
+    "pixelY": 6908,
+    "receivingDiameter": 640
+  },
+  {
+    "id": "M4",
+    "class": "medium",
+    "tileX": 169,
+    "tileY": 73,
+    "pixelX": 7436,
+    "pixelY": 3212,
+    "receivingDiameter": 640
+  },
+  {
+    "id": "S1",
+    "class": "small",
+    "tileX": 16,
+    "tileY": 31,
+    "pixelX": 704,
+    "pixelY": 1364,
+    "receivingDiameter": 500
+  },
+  {
+    "id": "S2",
+    "class": "small",
+    "tileX": 18,
+    "tileY": 96,
+    "pixelX": 792,
+    "pixelY": 4224,
+    "receivingDiameter": 500
+  },
+  {
+    "id": "S3",
+    "class": "small",
+    "tileX": 116,
+    "tileY": 184,
+    "pixelX": 5104,
+    "pixelY": 8096,
+    "receivingDiameter": 500
+  },
+  {
+    "id": "S4",
+    "class": "small",
+    "tileX": 184,
+    "tileY": 127,
+    "pixelX": 8096,
+    "pixelY": 5588,
+    "receivingDiameter": 500
+  }
+]
